@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cataclysm_delicacies:item/bowl_of_remnant_skull_with_steak"
+  }
+}

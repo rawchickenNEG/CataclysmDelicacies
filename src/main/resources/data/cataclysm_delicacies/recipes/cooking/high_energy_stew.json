@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "cataclysm:witherite_ingot"
+  },
+  "cookingtime": 400,
+  "experience": 10.0,
+  "ingredients": [
+    {
+      "item": "cataclysm_delicacies:energy_storage_tank"
+    },
+    {
+      "item": "cataclysm_delicacies:energy_storage_tank"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:raw_mutton"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "cataclysm_delicacies:high_energy_stew"
+  }
+}

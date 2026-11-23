@@ -1,0 +1,11 @@
+{
+  "type": "cataclysm_delicacies:add_loot_table",
+  "conditions":
+  [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "cataclysm:entities/ignis"
+    }
+  ],
+  "lootTable": "cataclysm_delicacies:ignis_delight_loot"
+}

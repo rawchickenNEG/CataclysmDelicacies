@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "cataclysm_delicacies:energy_storage_tank"
+    },
+    {
+      "tag": "forge:pasta"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "cataclysm_delicacies:cable_pasta"
+  }
+}

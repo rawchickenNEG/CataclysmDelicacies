@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "cookingtime": 400,
+  "experience": 5.0,
+  "ingredients": [
+    {
+      "item": "cataclysm_delicacies:cursed_ectoplasm"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "cataclysm_delicacies:cursed_drink"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "cataclysm:koboleton_bone"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "chance": 0.4,
+      "item": "cataclysm_delicacies:koboleton_bone_marrow"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

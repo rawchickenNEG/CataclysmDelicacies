@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "cataclysm_delicacies:item/abyssal_egg_shell_knife"
+  }
+}

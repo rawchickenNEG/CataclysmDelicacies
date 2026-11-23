@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 5.0,
+  "ingredients": [
+    {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    {
+      "item": "cataclysm_delicacies:cursed_ectoplasm"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:glow_lichen"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "cataclysm_delicacies:eorgetfulness_soup"
+  }
+}
