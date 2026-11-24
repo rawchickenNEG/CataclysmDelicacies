@@ -45,3 +45,14 @@ repo/
 .tmp_fdscan/
 .tmp_ns/
 /.tmp_mc/
+
+### 仓库内容白名单：只保留移植源码与构建脚本 ###
+# 下面这些是本地工作产物 / 参考资料，不进仓库
+/CataclysmDelicacies-master/
+/.github/
+/TEMPLATE_LICENSE.txt
+/CataclysmDelicacies_1.21.1_移植要点.md
+/.tmp_*
+*.log
+/build_*.log
+.build_*.log

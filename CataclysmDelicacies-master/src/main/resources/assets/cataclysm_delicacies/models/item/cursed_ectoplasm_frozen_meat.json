@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "cataclysm_delicacies:item/cursed_gel_frozen_meat"
-  }
-}
