@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #",
+    "#K",
+    " I"
+  ],
+  "key": {
+    "I": {
+      "item": "cataclysm:black_steel_ingot"
+    },
+    "#": {
+      "item": "cataclysm:cursium_ingot"
+    },
+    "K": {
+      "item": "cataclysm:strange_key"
+    }
+  },
+  "result": {
+    "id": "cataclysm_delicacies:cursium_knife",
+    "count": 1
+  }
+}

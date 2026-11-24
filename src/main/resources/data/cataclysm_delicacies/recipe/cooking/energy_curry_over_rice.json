@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 5.0,
+  "ingredients": [
+    {
+      "item": "cataclysm_delicacies:energy_storage_tank"
+    },
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "tag": "c:foods/raw_salmon"
+    },
+    {
+      "tag": "c:foods/raw_bacon"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:torchflower"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "cataclysm_delicacies:energy_curry_over_rice"
+  }
+}

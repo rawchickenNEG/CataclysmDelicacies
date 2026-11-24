@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 5.0,
+  "ingredients": [
+    {
+      "item": "minecraft:spruce_leaves"
+    },
+    {
+      "item": "cataclysm_delicacies:cursed_ectoplasm"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "c:bones"
+    },
+    {
+      "tag": "c:foods/raw_mutton"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "cataclysm_delicacies:cursed_curry_stew"
+  }
+}

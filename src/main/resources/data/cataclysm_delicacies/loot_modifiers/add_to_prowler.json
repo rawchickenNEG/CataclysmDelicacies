@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_table",
+  "conditions":
+  [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "cataclysm:entities/the_prowler"
+    }
+  ],
+  "table": "cataclysm_delicacies:prowler_delight_loot"
+}

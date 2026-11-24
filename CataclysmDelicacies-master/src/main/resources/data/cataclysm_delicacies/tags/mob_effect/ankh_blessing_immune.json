@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:slowness",
+    "minecraft:darkness",
+    "minecraft:mining_fatigue",
+    "minecraft:nausea",
+    "minecraft:blindness",
+    "minecraft:hunger",
+    "minecraft:weakness",
+    "minecraft:poison",
+    "minecraft:wither",
+    "minecraft:levitation",
+    "minecraft:unluck",
+    "cataclysm:bone_fracture",
+    "cataclysm:abyssal_fear",
+    "cataclysm:abyssal_curse",
+    "cataclysm:curse_of_desert"
+  ]
+}

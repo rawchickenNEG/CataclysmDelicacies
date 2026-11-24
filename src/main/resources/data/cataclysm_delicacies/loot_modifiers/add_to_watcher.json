@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_table",
+  "conditions":
+  [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "cataclysm:entities/the_watcher"
+    }
+  ],
+  "table": "cataclysm_delicacies:watcher_delight_loot"
+}

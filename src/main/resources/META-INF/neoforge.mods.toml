@@ -1,0 +1,51 @@
+# Cataclysm Delicacies — NeoForge 1.21.1 mod metadata
+
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="rawchickenNEG, BFMeow"
+description='''
+Cataclysm Delicacies —— 为灾厄（L_Ender's Cataclysm）与农夫乐事（Farmer's Delight）搭桥的食物扩展。
+A food expansion bridging L_Ender's Cataclysm and Farmer's Delight.
+'''
+
+# Mixin 配置（1.21.1 NeoForge 在 neoforge.mods.toml 里声明 mixin 配置）
+[[mixins]]
+config="cataclysm_delicacies.mixins.json"
+
+# 访问转换器（用于读取 LootTable.pools / LootPool.entries / LootItem.item）
+[[accessTransformers]]
+file="META-INF/accesstransformer.cfg"
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="cataclysm"
+    type="required"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="farmersdelight"
+    type="required"
+    versionRange="[1.3,)"
+    ordering="AFTER"
+    side="BOTH"

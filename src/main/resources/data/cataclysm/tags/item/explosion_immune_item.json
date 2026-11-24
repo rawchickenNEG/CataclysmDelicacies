@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cataclysm_delicacies:energy_storage_tank",
+    "cataclysm_delicacies:breath_of_ignis",
+    "cataclysm_delicacies:chip_cookie"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "cataclysm:weapon_fusion",
+  "base": {
+    "item": "farmersdelight:cutting_board"
+  },
+  "addition": {
+    "item": "cataclysm_delicacies:witherite_knife"
+  },
+  "result": {
+    "id": "cataclysm_delicacies:mechanical_cutting_board"
+  }
+}

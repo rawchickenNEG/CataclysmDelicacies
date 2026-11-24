@@ -1,0 +1,9 @@
+1.0.1
+    Add config for effects, knives and cutting board.
+    Add effective for bosses tag for mod effects.
+    Change description for Ignisium Knife.
+    Change Blaze Scorching and Inferno Breathing effect abilities.
+    Fix Maledictus Avatar not successfully triggering death event issue.
+    Fix Koboleton Bone Broth returns incorrect container issue.
+    Fix Cursed Ectoplasm Frozen Meat has no loot issue.
+    Fix Ignisium Knife drop more than 5x loots issue when targets have high level of Blazing Brand effect.

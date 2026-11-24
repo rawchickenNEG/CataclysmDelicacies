@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cataclysm_delicacies:item/koboleton_bone_marrow"
+  }
+}

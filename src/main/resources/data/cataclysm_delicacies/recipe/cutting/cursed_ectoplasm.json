@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "cataclysm_delicacies:cursed_wing"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "cataclysm_delicacies:cursed_ectoplasm",
+        "count": 4
+      }
+    }
+  ],
+  "tool": [
+    {
+      "tag": "c:tools/knife"
+    }
+  ]
+}

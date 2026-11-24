@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "package": "io.github.rcneg.cataclysmdelicacies.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": [
+    "CookingPotBlockEntityMixin",
+    "CuttingBoardBlockEntityMixin",
+    "IABoss_monsterMixin",
+    "LivingEntityMixin",
+    "LLibraryBossMonsterMixin",
+    "SkilletBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "MinecraftMixin"
+  ]
+}

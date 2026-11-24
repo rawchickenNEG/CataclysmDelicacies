@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_meat"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "cataclysm_delicacies:koboleton_bone_marrow"
+    },
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "cataclysm_delicacies:premium_dog_food"
+  }
+}

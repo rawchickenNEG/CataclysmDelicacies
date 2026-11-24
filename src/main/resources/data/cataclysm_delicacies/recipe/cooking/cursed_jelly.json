@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:light_weighted_pressure_plate"
+  },
+  "cookingtime": 400,
+  "experience": 5.0,
+  "ingredients": [
+    {
+      "item": "cataclysm_delicacies:cursed_ectoplasm"
+    },
+    {
+      "item": "cataclysm_delicacies:cursed_ectoplasm"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:slime_balls"
+    },
+    {
+      "tag": "c:slime_balls"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "cataclysm_delicacies:cursed_jelly"
+  }
+}

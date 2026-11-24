@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cataclysm_delicacies:energy_meltdown",
+    "cataclysm_delicacies:inferno_breathing",
+    "cataclysm_delicacies:blaze_scorching",
+    "cataclysm_delicacies:cursed",
+    "cataclysm_delicacies:maledictus_avatar",
+    "cataclysm_delicacies:ankh_blessing"
+  ]
+}

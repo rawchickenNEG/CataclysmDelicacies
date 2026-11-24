@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#II",
+    "###"
+  ],
+  "key": {
+    "I": {
+      "item": "cataclysm_delicacies:remnant_tooth"
+    },
+    "#": {
+      "item": "cataclysm:koboleton_bone"
+    }
+  },
+  "result": {
+    "id": "cataclysm:remnant_skull",
+    "count": 1
+  }
+}

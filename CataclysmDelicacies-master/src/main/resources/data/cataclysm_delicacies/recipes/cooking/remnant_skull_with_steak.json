@@ -1,0 +1,43 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 10.0,
+  "ingredients": [
+    {
+      "item": "cataclysm_delicacies:koboleton_bone_marrow"
+    },
+    {
+      "item": "cataclysm:remnant_skull"
+    },
+    {
+      "item": "cataclysm_delicacies:koboleton_bone_marrow"
+    },
+    [
+      {
+        "item": "minecraft:glow_berries"
+      },
+      {
+        "tag": "forge:mushrooms"
+      },
+      {
+        "tag": "forge:crops/onion"
+      },
+      {
+        "item": "minecraft:honey_bottle"
+      }
+    ],
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:cactus"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "cataclysm_delicacies:remnant_skull_with_steak"
+  }
+}

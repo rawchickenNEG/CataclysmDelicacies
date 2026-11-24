@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 10.0,
+  "ingredients": [
+    {
+      "item": "minecraft:spruce_leaves"
+    },
+    {
+      "item": "cataclysm_delicacies:cursed_ectoplasm"
+    },
+    {
+      "tag": "c:foods/raw_meat"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "cataclysm_delicacies:cursed_ectoplasm"
+    },
+    {
+      "tag": "c:foods/raw_meat"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "cataclysm_delicacies:cursed_ectoplasm_frozen_meat"
+  }
+}

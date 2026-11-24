@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:salad_ingredients"
+    },
+    {
+      "item": "cataclysm_delicacies:roasted_koboleton_bone_marrow"
+    },
+    {
+      "item": "cataclysm_delicacies:roasted_koboleton_bone_marrow"
+    },
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "farmersdelight:fried_egg"
+    }
+  ],
+  "result": {
+    "item": "cataclysm_delicacies:crispy_koboleton_bone_marrow",
+    "count": 1
+  }
+}
